@@ -11,3 +11,6 @@ Requirement Description: The new system will allow the user to pay with their mo
 Requirement_ID:FR003
 Requirement Title: Transfer to other accounts
 Requirement Description: The system will have a feature that allows users to transfer money between accounts with a maximum limit of £250 per day.
+
+The user should be able to use conntactless or enter their pin number.
+
