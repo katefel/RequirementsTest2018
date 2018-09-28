@@ -2,4 +2,12 @@ Please add your example functional requirements below in the following format
 
 Requirement_ID:FR001
 Requirement Title: Paying with a credit card
-Requirement description: The new system will allow the user to pay with a credit card.  An external banking plugin will be used to process the payment.
+Requirement Description: The new system will allow the user to pay with a credit card.  An external banking plugin will be used to process the payment.
+
+Requirement_ID: FR002
+Requirement Title: Paying with mobile pay
+Requirement Description: The new system will allow the user to pay with their mobile phone.  An external banking plugin will be used to process the payment.
+
+Requirement_ID:FR003
+Requirement Title: Transfer to other accounts
+Requirement Description: The system will have a feature that allows users to transfer money between accounts with a maximum limit of £250 per day.
